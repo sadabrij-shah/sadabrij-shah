@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Sadashiv
 
-<!--
-**sadabrij-shah/sadabrij-shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Java Full Stack Developer | Cloud | Microservices | AI
 
-Here are some ideas to get you started:
+I am a Java Full Stack Developer with 4+ years of experience building
+scalable cloud-native applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technologies
+
+- ☕ Java
+- 🌱 Spring Boot
+- 🔗 Microservices
+- 🅰️ Angular
+- ☁️ Google Cloud
+- 🐳 Docker
+- ☸️ Kubernetes
+- 📨 Kafka
+- 🐘 PostgreSQL
+- 🤖 AI / LLM / Agentic AI
+
+### 🔭 Currently Building
+
+- 🤖 AI Financial Employee
+- 📦 Inventory Management SaaS
+
+### 📚 Currently Learning
+
+- System Design
+- Kafka
+- Kubernetes
+- Agentic AI
+- LLM Applications
+
+### 📫 Connect With Me
+
+- LinkedIn
+- GitHub

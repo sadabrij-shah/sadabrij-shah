@@ -1,37 +1,47 @@
-# 👋 Hi, I'm Sadabrij Shah
+👋 Hi, I'm Sadabrij Shah
 
-### Senior Java Full Stack Developer | Cloud | Microservices | AI
+Senior Java Full Stack Developer
+Java | Spring Boot | Angular | GCP | Microservices | AI
 
-I am a Java Full Stack Developer with 4+ years of experience building
-scalable cloud-native applications.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### 🚀 Technologies
+🚀 ABOUT ME
 
-- ☕ Java
-- 🌱 Spring Boot
-- 🔗 Microservices
-- 🅰️ Angular
-- ☁️ Google Cloud
-- 🐳 Docker
-- ☸️ Kubernetes
-- 📨 Kafka
-- 🐘 PostgreSQL
-- 🤖 AI / LLM / Agentic AI
+4+ years of experience building scalable
+cloud-native applications.
 
-### 🔭 Currently Building
+💻 Backend       Java / Spring Boot
+🎨 Frontend      Angular
+☁️ Cloud         GCP
+🏗️ Architecture  Microservices
+🐳 DevOps        Docker / Kubernetes
+🤖 AI            LLM / Agentic AI
 
-- 🤖 AI Financial Employee
-- 📦 Inventory Management SaaS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### 📚 Currently Learning
+🔥 WHAT I'M BUILDING
 
-- System Design
-- Kafka
-- Kubernetes
-- Agentic AI
-- LLM Applications
+🤖 AI Financial Employee
+📦 Inventory Management SaaS
 
-### 📫 Connect With Me
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-- LinkedIn
-- GitHub
+🛠️ TECH STACK
+
+Java       Spring Boot       Angular
+GCP        Docker            Kubernetes
+Kafka      PostgreSQL        GitHub Actions
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📊 GITHUB STATS
+
+[GitHub Statistics]
+
+[Most Used Languages]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📫 CONNECT
+
+LinkedIn | GitHub
